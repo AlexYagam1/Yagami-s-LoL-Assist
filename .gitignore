@@ -1,1 +1,8 @@
+#arquivos de ambiente
+
 .env
+
+counter_data.json
+*.pkl
+_pycache_/
+*.pyc
